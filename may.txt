@@ -1,6 +1,9 @@
 Comandos Git:
+<<<<<<< HEAD
 
 git --version
 
 
 
+=======
+>>>>>>> d03236f4cd636604f74fc66b1ca7f0d4c6081d30
